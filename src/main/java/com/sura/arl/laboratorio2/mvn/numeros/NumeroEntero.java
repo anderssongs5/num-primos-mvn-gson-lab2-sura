@@ -1,4 +1,4 @@
-package com.sura.arl.laboratorio2.mvn.numeros.primos;
+package com.sura.arl.laboratorio2.mvn.numeros;
 
 public class NumeroEntero {
 

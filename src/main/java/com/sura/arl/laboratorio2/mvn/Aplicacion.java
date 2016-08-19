@@ -3,8 +3,8 @@ package com.sura.arl.laboratorio2.mvn;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.sura.arl.laboratorio2.mvn.numeros.NumeroPrimo;
-import com.sura.arl.laboratorio2.mvn.numeros.primos.NumeroEntero;
+import com.sura.arl.laboratorio2.mvn.numeros.NumeroEntero;
+import com.sura.arl.laboratorio2.mvn.numeros.primos.NumeroPrimo;
 import com.sura.arl.laboratorio2.mvn.serializacion.Serializador;
 
 public class Aplicacion {
